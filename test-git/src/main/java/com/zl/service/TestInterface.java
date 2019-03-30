@@ -8,5 +8,4 @@ public interface TestInterface {
 
 	void m3();
 
-	void m4();
 }
