@@ -7,5 +7,6 @@
   <modules>
   	<module>test-service</module>
   	<module>test-common</module>
+  	<module>test-config</module>
   </modules>
 </project>
